@@ -1,0 +1,42 @@
+/* *{  box
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+
+
+div{
+    border: 15px solid green ;
+    padding: 35px 40px 50px 60px;
+    margin: 25px;
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+}
+.box1{
+    padding: 100px;
+} */
+ h2{  
+    color: red;
+    text-decoration: line-through;
+    background: #000;
+    text-shadow: 3px 3px 2px green;
+    text-indent: 10%;
+    font-family: cursive;
+
+ }
+ p{
+    text-align: justify;
+    text-indent: 80px;
+    letter-spacing: 0.05rem;
+    word-spacing: 10px;
+    font-family: "Dancing Script", cursive;;
+    
+ }
+ a{
+    color: aqua;
+   text-decoration: line-through;
+ } 

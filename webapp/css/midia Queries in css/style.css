@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+@media (width <= 500px) {
+    body{
+        background-color: red;
+    }
+    
+}
+ /* @media (orientation: portrait) {
+    body{
+        background-color: red;
+    } */
+    
+    @media (width <= 300px) {
+    body{
+        background-color: green;
+    }
+}

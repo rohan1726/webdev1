@@ -1,0 +1,19 @@
+.outer-container{
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+    margin: 100px auto;
+}
+.inner-container{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* transform: scale(2); */
+    /* transform: skew(25deg,50deg); */
+    transform: translate(50%,50%);
+
+}

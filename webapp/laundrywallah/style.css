@@ -1,0 +1,39 @@
+body{
+     margin: 0%;
+     padding-left:0;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+}
+.container{
+    width: 60%;
+    text-align: center;
+        border: 2px solid red;
+        overflow: auto;
+
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0px;
+    display: inline-block;
+    text-align: left;
+}
+table{
+    padding-left: 0px;
+    display: inline-block;
+    text-align: left;
+
+}
+#book{
+    padding-left: 0px;
+    display: inline-block;
+    text-align:center;
+
+
+}
+h1{
+    position: fixed;
+}
+
